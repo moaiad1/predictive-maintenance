@@ -3,3 +3,16 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
+
+# Generated artifacts — not source code
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.zip
+*.pkl
+*.npy
+*.csv
+models/
+data/
+results/
